@@ -118,7 +118,7 @@ public class SyncClient<CS:ClientSynchronizer, D:DataStore where CS.T == D.T, CS
     /**
     Disconnects this SyncClient from the server.
     */
-    public func disconnect(ws: WebSocket) {
+    public func disconnect() {
         ws.disconnect()
     }
     
