@@ -7,18 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0A31614CEBC8C902A713E467 /* Pods_AeroGearSyncClientTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06B7AF61E1884BAC4B23D3A6 /* Pods_AeroGearSyncClientTests.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
-		48A3DB6F1BC5A65D0047BC74 /* SyncClientJsonPatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A3DB6E1BC5A65C0047BC74 /* SyncClientJsonPatch.swift */; settings = {ASSET_TAGS = (); }; };
+		0A31614CEBC8C902A713E467 /* Pods_AeroGearSyncClientTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06B7AF61E1884BAC4B23D3A6 /* Pods_AeroGearSyncClientTests.framework */; };
+		48A3DB6F1BC5A65D0047BC74 /* SyncClientJsonPatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A3DB6E1BC5A65C0047BC74 /* SyncClientJsonPatch.swift */; };
 		48A3DBA31BC5B2670047BC74 /* AeroGearSyncClientJsonPatch.h in Headers */ = {isa = PBXBuildFile; fileRef = 48A3DBA21BC5B2670047BC74 /* AeroGearSyncClientJsonPatch.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		48A3DBA81BC5B2800047BC74 /* SyncClientJsonPatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A3DB6E1BC5A65C0047BC74 /* SyncClientJsonPatch.swift */; };
 		48A3DBB11BC5B2AE0047BC74 /* AeroGearSyncClientDiffMatchPatch.h in Headers */ = {isa = PBXBuildFile; fileRef = 48A3DBB01BC5B2AE0047BC74 /* AeroGearSyncClientDiffMatchPatch.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		48A3DBB71BC5B2E90047BC74 /* SyncClientDiffMatchPatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A3DBB61BC5B2E90047BC74 /* SyncClientDiffMatchPatch.swift */; settings = {ASSET_TAGS = (); }; };
+		48A3DBB71BC5B2E90047BC74 /* SyncClientDiffMatchPatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A3DBB61BC5B2E90047BC74 /* SyncClientDiffMatchPatch.swift */; };
 		48D7D5E81A7A6B84000116C5 /* AeroGearSyncClient.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 48DBD5071A6559C1003239EC /* AeroGearSyncClient.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		48DBD5131A6559C1003239EC /* AeroGearSyncClient.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48DBD5071A6559C1003239EC /* AeroGearSyncClient.framework */; };
 		48DBD56A1A65627E003239EC /* SyncClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DBD5681A65627E003239EC /* SyncClientTests.swift */; };
-		9AE21B068002D2448E24252E /* Pods_AeroGearSyncClientJsonPatch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E446E2962F6486DA0DF6137 /* Pods_AeroGearSyncClientJsonPatch.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		9AE21B068002D2448E24252E /* Pods_AeroGearSyncClientJsonPatch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E446E2962F6486DA0DF6137 /* Pods_AeroGearSyncClientJsonPatch.framework */; };
 		E744BA188BC6AF48F9748A39 /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D76F24E3E0F3B8312D704AC6 /* Pods.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
-		F3FCC669A166521E79D81C5F /* Pods_AeroGearSyncClientDiffMatchPatch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F781386F497464B7A797DCB1 /* Pods_AeroGearSyncClientDiffMatchPatch.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		F3FCC669A166521E79D81C5F /* Pods_AeroGearSyncClientDiffMatchPatch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F781386F497464B7A797DCB1 /* Pods_AeroGearSyncClientDiffMatchPatch.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
